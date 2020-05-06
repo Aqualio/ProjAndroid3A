@@ -3,117 +3,117 @@
 [
   {
     "name": "2B",
-    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_No.2_Type_B?file=YoRHa_No.2_Type_B.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/3/38/YoRHa_No.2_Type_B.png/revision/latest?cb=20170322051325",
     "faction": "YORHA"
   },
   {
     "name": "9S",
-    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_No.9_Type_S?file=YoRHa_No.9_Type_S.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/8/84/YoRHa_No.9_Type_S.png/revision/latest?cb=20170224142832",
     "faction": "YORHA"
   },
   {
     "name": "A2",
-    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_Type_A_No.2?file=YoRHa_No.2A.png#Artwork",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/f/fe/YoRHa_No.2A.png/revision/latest?cb=20170423025735",
     "faction": "Independent"
   },
   {
     "name": "6O/21O",
-    "imgUrl": "https://nier.fandom.com/wiki/Operator_21O?file=Imageewr.jpeg",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/d/d3/Imageewr.jpeg/revision/latest?cb=20160915061704",
     "faction": "YORHA"
   },
   {
     "name": "Commander White",
-    "imgUrl": "https://nier.fandom.com/wiki/Commander_White?file=YoRHa_Commander.png#Artwork",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/8/85/YoRHa_Commander.png/revision/latest?cb=20190219195750",
     "faction": "YORHA"
   },
   {
     "name": "Pod 042/153",
-    "imgUrl": "https://nier.fandom.com/wiki/Pod_153?file=Pod153_Pod142.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/98/Pod153_Pod142.png/revision/latest?cb=20170224143118",
     "faction": "YORHA"
   },
   {
     "name": "Adam",
-    "imgUrl": "https://nier.fandom.com/wiki/Adam?file=Adam.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/94/Adam.png/revision/latest?cb=20170224223324",
     "faction": "Machines"
   },
   {
     "name": "Eve",
-    "imgUrl": "https://nier.fandom.com/wiki/Eve?file=Eve.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/6/64/Eve.png/revision/latest?cb=20170224190504",
     "faction": "Machines"
   },
   {
     "name": "Pascal",
-    "imgUrl": "https://nier.fandom.com/wiki/Pascal?file=Ccdimage.jpg",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/40/Ccdimage.jpg/revision/latest?cb=20160919231826",
     "faction": "Pascal's village"
   },
   {
     "name": "Jean-Paul",
-    "imgUrl": "https://nier.fandom.com/wiki/Jean-Paul?file=Jean-Paul.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/c/c4/Jean-Paul.png/revision/latest?cb=20180215225716",
     "faction": "Pascal's village"
   },
   {
     "name": "Engels",
-    "imgUrl": "https://nier.fandom.com/wiki/Engels?file=Engels.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/1/1b/Engels.png/revision/latest?cb=20170430090743",
     "faction": "Machines"
   },
   {
     "name": "Marx",
-    "imgUrl": "https://nier.fandom.com/wiki/Marx?file=Marx.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/7/7e/Marx.png/revision/latest?cb=20170430083734",
     "faction": "Machines"
   },
   {
     "name": "Kierkegaard",
-    "imgUrl": "https://nier.fandom.com/wiki/Kierkegaard?file=Kier1.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/4c/Kier1.png/revision/latest?cb=20170504100149",
     "faction": "Factory Machines"
   },
   {
     "name": "Grün",
-    "imgUrl": "https://nier.fandom.com/wiki/Gr%C8%95n?file=Grun.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/43/Grun.png/revision/latest?cb=20170503235112",
     "faction": "Machines"
   },
   {
     "name": "Simone",
-    "imgUrl": "https://nier.fandom.com/wiki/Simone?file=Simone.jpg",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/5/5d/Simone.jpg/revision/latest?cb=20190204015735",
     "faction": "Machines"
   },
   {
     "name": "So-Shi",
-    "imgUrl": "https://nier.fandom.com/wiki/So-Shi?file=So-Shi.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/e/e4/So-Shi.png/revision/latest?cb=20180206113734",
     "faction": "Machines"
   },
   {
     "name": "Boku-Shi",
-    "imgUrl": "https://nier.fandom.com/wiki/Boku-Shi?file=Boku-shi-0.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/f/f3/Boku-shi-0.png/revision/latest?cb=20170604142727",
     "faction": "Machines"
   },
   {
     "name": "Hegel",
-    "imgUrl": "https://nier.fandom.com/wiki/Hegel?file=Hegel_1.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b4/Hegel_1.png/revision/latest?cb=20170504104505",
     "faction": "Machines"
   },
   {
     "name": "Immanuel",
-    "imgUrl": "https://nier.fandom.com/wiki/Immanuel?file=Immanuel.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/6/67/Immanuel.png/revision/latest?cb=20191223162324",
     "faction": "Forest Kingdom"
   },
   {
     "name": "Emil",
-    "imgUrl": "https://nier.fandom.com/wiki/Emil?file=Emil.png#Weapon%20Form",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/9b/Emil.png/revision/latest?cb=20180203073034",
     "faction": "Independent"
   },
   {
     "name": "Anemone",
-    "imgUrl": "https://nier.fandom.com/wiki/Anemone?file=Anemone.png",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b1/Anemone.png/revision/latest?cb=20170224143508",
     "faction": "Resistance"
   },
   {
     "name": "Devola",
-    "imgUrl": "https://nier.fandom.com/wiki/Devola?file=NA_Devola.png#NieR:%20Automata",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/e/e4/NA_Devola.png/revision/latest?cb=20170225032142",
     "faction": "Resistance"
   },
   {
     "name": "Popola",
-    "imgUrl": "https://nier.fandom.com/wiki/Popola?file=NA_Popola.png#NieR:%20Automata",
+    "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/d/d7/NA_Popola.png/revision/latest?cb=20170225031905",
     "faction": "Resistance"
   }
 ]
