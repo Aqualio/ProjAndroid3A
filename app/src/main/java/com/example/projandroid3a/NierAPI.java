@@ -5,6 +5,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 public interface NierAPI {
-    @GET("Nier%3AAutomata-API.json")
+    @GET("NierAutomata-API.json")
     Call<RestNierAPIResponse> getNierResponse();
 }
