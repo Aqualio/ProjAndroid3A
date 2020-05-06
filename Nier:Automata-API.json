@@ -1,0 +1,117 @@
+[
+  {
+    "name": "2B",
+    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_No.2_Type_B?file=YoRHa_No.2_Type_B.png",
+    "faction": "YORHA"
+  },
+  {
+    "name": "9S",
+    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_No.9_Type_S?file=YoRHa_No.9_Type_S.png",
+    "faction": "YORHA"
+  },
+  {
+    "name": "A2",
+    "imgUrl": "https://nier.fandom.com/wiki/YoRHa_Type_A_No.2?file=YoRHa_No.2A.png#Artwork",
+    "faction": "Independent"
+  },
+  {
+    "name": "6O/21O",
+    "imgUrl": "https://nier.fandom.com/wiki/Operator_21O?file=Imageewr.jpeg",
+    "faction": "YORHA"
+  },
+  {
+    "name": "Commander White",
+    "imgUrl": "https://nier.fandom.com/wiki/Commander_White?file=YoRHa_Commander.png#Artwork",
+    "faction": "YORHA"
+  },
+  {
+    "name": "Pod 042/153",
+    "imgUrl": "https://nier.fandom.com/wiki/Pod_153?file=Pod153_Pod142.png",
+    "faction": "YORHA"
+  },
+  {
+    "name": "Adam",
+    "imgUrl": "https://nier.fandom.com/wiki/Adam?file=Adam.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Eve",
+    "imgUrl": "https://nier.fandom.com/wiki/Eve?file=Eve.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Pascal",
+    "imgUrl": "https://nier.fandom.com/wiki/Pascal?file=Ccdimage.jpg",
+    "faction": "Pascal's village"
+  },
+  {
+    "name": "Jean-Paul",
+    "imgUrl": "https://nier.fandom.com/wiki/Jean-Paul?file=Jean-Paul.png",
+    "faction": "Pascal's village"
+  },
+  {
+    "name": "Engels",
+    "imgUrl": "https://nier.fandom.com/wiki/Engels?file=Engels.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Marx",
+    "imgUrl": "https://nier.fandom.com/wiki/Marx?file=Marx.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Kierkegaard",
+    "imgUrl": "https://nier.fandom.com/wiki/Kierkegaard?file=Kier1.png",
+    "faction": "Factory Machines"
+  },
+  {
+    "name": "Grün",
+    "imgUrl": "https://nier.fandom.com/wiki/Gr%C8%95n?file=Grun.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Simone",
+    "imgUrl": "https://nier.fandom.com/wiki/Simone?file=Simone.jpg",
+    "faction": "Machines"
+  },
+  {
+    "name": "So-Shi",
+    "imgUrl": "https://nier.fandom.com/wiki/So-Shi?file=So-Shi.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Boku-Shi",
+    "imgUrl": "https://nier.fandom.com/wiki/Boku-Shi?file=Boku-shi-0.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Hegel",
+    "imgUrl": "https://nier.fandom.com/wiki/Hegel?file=Hegel_1.png",
+    "faction": "Machines"
+  },
+  {
+    "name": "Immanuel",
+    "imgUrl": "https://nier.fandom.com/wiki/Immanuel?file=Immanuel.png",
+    "faction": "Forest Kingdom"
+  },
+  {
+    "name": "Emil",
+    "imgUrl": "https://nier.fandom.com/wiki/Emil?file=Emil.png#Weapon%20Form",
+    "faction": "Independent"
+  },
+  {
+    "name": "Anemone",
+    "imgUrl": "https://nier.fandom.com/wiki/Anemone?file=Anemone.png",
+    "faction": "Resistance"
+  },
+  {
+    "name": "Devola",
+    "imgUrl": "https://nier.fandom.com/wiki/Devola?file=NA_Devola.png#NieR:%20Automata",
+    "faction": "Resistance"
+  },
+  {
+    "name": "Popola",
+    "imgUrl": "https://nier.fandom.com/wiki/Popola?file=NA_Popola.png#NieR:%20Automata",
+    "faction": "Resistance"
+  }
+]
