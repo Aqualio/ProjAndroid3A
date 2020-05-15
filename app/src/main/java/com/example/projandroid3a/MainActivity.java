@@ -4,12 +4,16 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
 
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,13 +29,36 @@ public class MainActivity extends AppCompatActivity {
     private ListAdapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
     private static final String BASE_URL = "https://raw.githubusercontent.com/BilboBaguette/ProjAndroid3A/master/";
+    private SharedPreferences sharedPreferences;
+    private Gson gson;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        makeApiCall();
+        sharedPreferences = getSharedPreferences("app_nier", Context.MODE_PRIVATE);
+        gson = new GsonBuilder()
+                .setLenient()
+                .create();
+
+        List<NierCharacter> charaList = getDataFromCache();
+        if(charaList != null){
+            showList(charaList);
+        }else {
+            makeApiCall();
+        }
+    }
+
+    private List<NierCharacter> getDataFromCache() {
+        String jsonNier = sharedPreferences.getString("jsonNierList", null);
+
+        if (jsonNier == null){
+            return null;
+        }else{
+            Type listType = new TypeToken<List<NierCharacter>>(){}.getType();
+            return gson.fromJson(jsonNier, listType);
+        }
     }
 
     private void showList(List<NierCharacter> charaList) {
@@ -47,10 +74,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void makeApiCall(){
-            Gson gson = new GsonBuilder()
-                    .setLenient()
-                    .create();
-
             Retrofit retrofit = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addConverterFactory(GsonConverterFactory.create(gson))
@@ -64,6 +87,7 @@ public class MainActivity extends AppCompatActivity {
                 public void onResponse(Call<RestNierAPIResponse> call, Response<RestNierAPIResponse> response) {
                     if(response.isSuccessful() && response.body() != null){
                         List<NierCharacter> charaList = response.body().getResults();
+                        saveList(charaList);
                         showList(charaList);
                     }
                 }
@@ -73,6 +97,16 @@ public class MainActivity extends AppCompatActivity {
                     showError();
                 }
             });
+    }
+
+    private void saveList(List<NierCharacter> charaList) {
+        String jsonString = gson.toJson(charaList);
+        sharedPreferences
+                .edit()
+                .putString("jsonNierList", jsonString)
+                .apply();
+
+        Toast.makeText(getApplicationContext(), "Data Saved", Toast.LENGTH_SHORT).show();
     }
 
     private void showError() {
