@@ -23,7 +23,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements ListAdapter.onNoteListener {
 
     private RecyclerView recyclerView;
     private ListAdapter mAdapter;
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
         // define an adapter
-        mAdapter = new ListAdapter(charaList);
+        mAdapter = new ListAdapter(charaList, this);
         recyclerView.setAdapter(mAdapter);
     }
 
@@ -111,5 +111,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void showError() {
         Toast.makeText(getApplicationContext(), "API Error", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void onNoteClick(int pos) {
+        Toast.makeText(getApplicationContext(), "Clicked", Toast.LENGTH_SHORT).show();
     }
 }

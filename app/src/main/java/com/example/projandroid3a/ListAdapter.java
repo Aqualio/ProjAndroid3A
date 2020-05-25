@@ -16,23 +16,36 @@ import java.util.List;
 
 public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
     private List<NierCharacter> values;
+    private onNoteListener myNoteListener;
 
     // Provide a reference to the views for each data item
     // Complex data items may need more than one view per item, and
     // you provide access to all the views for a data item in a view holder
-    static class ViewHolder extends RecyclerView.ViewHolder {
+    static class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         // each data item is just a string in this case
         TextView txtHeader;
         TextView txtFooter;
         View layout;
         ImageView imgChara = (ImageView) itemView.findViewById(R.id.icon);
+        onNoteListener NoteListener;
 
-        ViewHolder(View v) {
+        ViewHolder(View v, onNoteListener NoteListener) {
             super(v);
             layout = v;
             txtHeader = (TextView) v.findViewById(R.id.firstLine);
             txtFooter = (TextView) v.findViewById(R.id.secondLine);
+            this.NoteListener = NoteListener;
+            itemView.setOnClickListener(this);
         }
+
+        @Override
+        public void onClick(View v) {
+            NoteListener.onNoteClick(getAdapterPosition());
+        }
+    }
+
+    public interface onNoteListener{
+        void onNoteClick(int pos);
     }
 
     public void add(int position, NierCharacter item) {
@@ -46,8 +59,9 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
     }
 
     // Provide a suitable constructor (depends on the kind of dataset)
-    ListAdapter(List<NierCharacter> myDataset) {
+    public ListAdapter(List<NierCharacter> myDataset, onNoteListener NoteListener) {
         values = myDataset;
+        this.myNoteListener = NoteListener;
     }
 
     // Create new views (invoked by the layout manager)
@@ -62,7 +76,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
         View v =
                 inflater.inflate(R.layout.row_layout, parent, false);
         // set the view's size, margins, paddings and layout parameters
-        return new ViewHolder(v);
+        return new ViewHolder(v, myNoteListener);
     }
 
     // Replace the contents of a view (invoked by the layout manager)
