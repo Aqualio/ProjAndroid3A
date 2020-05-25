@@ -5,6 +5,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.Toast;
@@ -31,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements ListAdapter.onNot
     private static final String BASE_URL = "https://raw.githubusercontent.com/BilboBaguette/ProjAndroid3A/master/";
     private SharedPreferences sharedPreferences;
     private Gson gson;
+    private ArrayList<NierCharacter> charArrayList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,6 +50,10 @@ public class MainActivity extends AppCompatActivity implements ListAdapter.onNot
         }else {
             makeApiCall();
         }
+        charArrayList = getArrayDataFromCache();
+        if(charArrayList == null){
+            makeApiCall();
+        }
     }
 
     private List<NierCharacter> getDataFromCache() {
@@ -57,6 +63,17 @@ public class MainActivity extends AppCompatActivity implements ListAdapter.onNot
             return null;
         }else{
             Type listType = new TypeToken<List<NierCharacter>>(){}.getType();
+            return gson.fromJson(jsonNier, listType);
+        }
+    }
+
+    private ArrayList<NierCharacter> getArrayDataFromCache(){
+        String jsonNier = sharedPreferences.getString("jsonNierList", null);
+
+        if (jsonNier == null){
+            return null;
+        }else{
+            Type listType = new TypeToken<ArrayList<NierCharacter>>(){}.getType();
             return gson.fromJson(jsonNier, listType);
         }
     }
@@ -115,6 +132,8 @@ public class MainActivity extends AppCompatActivity implements ListAdapter.onNot
 
     @Override
     public void onNoteClick(int pos) {
-        Toast.makeText(getApplicationContext(), "Clicked", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, OtherActivity.class);
+        intent.putExtra("clicked_character", charArrayList.get(pos));
+        startActivity(intent);
     }
 }
