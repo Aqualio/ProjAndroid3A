@@ -5,139 +5,162 @@
     "name": "2B",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/3/38/YoRHa_No.2_Type_B.png/revision/latest?cb=20170322051325",
     "faction": "YORHA",
-    "bio": "YoRHa No.2 Type B (Battle) or 2B serves as the protagonist of Route A in NieR:Automata. She is a YoRHa android created to battle the machine lifeforms that have invaded the planet on behalf of the surviving humans. She served during the 14th Machine War.2B is an all-purpose battle android, deployed as a member of the automated YoRHa infantry. She is equipped with a multitude of weapons for close quarters combat and can attack from range using the Pod support system. Her eyes are obscured beneath her standard-issue military visor, which she rarely removes."
+    "bio": "YoRHa No.2 Type B (Battle) or 2B serves as the protagonist of Route A in NieR:Automata. She is a YoRHa android created to battle the machine lifeforms that have invaded the planet on behalf of the surviving humans. She served during the 14th Machine War.2B is an all-purpose battle android, deployed as a member of the automated YoRHa infantry. She is equipped with a multitude of weapons for close quarters combat and can attack from range using the Pod support system. Her eyes are obscured beneath her standard-issue military visor, which she rarely removes.",
+    "perso": "2B is a blade of quiet determination. As a combat android, she does not encourage idle chatter on frivolous subjects and is generally reticent towards others. She also has high respect for the chain of command and rarely questions her orders, unlike her partner. However, 2B occasionally expresses a notably sardonic wit in the face of certain situations and can even be hot-headed at times."
   },
   {
     "name": "9S",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/8/84/YoRHa_No.9_Type_S.png/revision/latest?cb=20170224142832",
     "faction": "YORHA",
-    "bio": "YoRHa No.9 Type S (Scanner) or 9S is the protagonist of Branches B and D in NieR:Automata, as well as one of the main antagonists and final boss of Branch C. 9S is a scanner type android who served during the 14th Machine War. He has an attack function, but it is an android that specializes in investigative purposes—a member of the automated infantry squad, YoRHa, who triumphs in hacking-based information collection."
+    "bio": "YoRHa No.9 Type S (Scanner) or 9S is the protagonist of Branches B and D in NieR:Automata, as well as one of the main antagonists and final boss of Branch C. 9S is a scanner type android who served during the 14th Machine War. He has an attack function, but it is an android that specializes in investigative purposes—a member of the automated infantry squad, YoRHa, who triumphs in hacking-based information collection.",
+    "perso": "He is programmed with an emotional but kind personality. He is shown to be polite and very formal with 2B, as he calls her ma'am (as she is his superior). 9S will often voice his thoughts and feelings, particularly complaints about his job (such as being ordered around too much or finding the job tiring) to which 2B will quickly dismiss."
   },
   {
     "name": "A2",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/f/fe/YoRHa_No.2A.png/revision/latest?cb=20170423025735",
     "faction": "Independent",
-    "bio": "YoRHa Type A (Attacker) No.2 or A2 serves as the protagonist of Branch C in NieR:Automata, as well as the final boss in Branch D. She is a prototype of the YoRHa android line, and combat data from her and her comrades was used to create the superior current lines, including 2B and 9S. She doesn't like to speak and often keeps to herself. "
+    "bio": "YoRHa Type A (Attacker) No.2 or A2 serves as the protagonist of Branch C in NieR:Automata, as well as the final boss in Branch D. She is a prototype of the YoRHa android line, and combat data from her and her comrades was used to create the superior current lines, including 2B and 9S. She doesn't like to speak and often keeps to herself.",
+    "perso": "A2 is initially depicted as mysterious and taciturn. However, it is eventually shown through her interactions with Pod 042 that she possesses an aggressive and fiery personality. She has a propensity towards reckless behavior as she will dive head-long into dangerous situations without consideration for strategic evaluations or her own personal safety. When speaking to others, she tends to be blunt, impatient and foul-mouthed."
   },
   {
     "name": "6O/21O",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/d/d3/Imageewr.jpeg/revision/latest?cb=20160915061704",
     "faction": "YORHA",
-    "bio": ""
+    "bio": "Operator 6O (pronounced Operator six-oh)/Operator 21O (pronounced Operator two-one-oh) is an android communication operator permanently stationed at the “Bunker”. As with other operators, her duties include sending directives to the YoRHa soldiers on the field as well as information analysis.",
+    "perso": "Operator 6O, responsible for YoRHa No.2 Type B, is comparatively bright, friendly, and personal. Operator 21O, responsible for YoRHa No.9 Type S, is level-headed, cold, and impersonal."
   },
   {
     "name": "Commander White",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/8/85/YoRHa_Commander.png/revision/latest?cb=20190219195750",
     "faction": "YORHA",
-    "bio": ""
+    "bio": "Commander White is a character in NieR:Automata. As the commander of all YoRHa forces, she determines all large-scale strategies as well as directs, deploys and oversees all units from her station at the Bunker outpost in Earth's orbit.",
+    "perso": "The calm and composed commander of the YoRHa units and director of the orbital satellite known as the “Bunker”."
   },
   {
     "name": "Pod 042/153",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/98/Pod153_Pod142.png/revision/latest?cb=20170224143118",
     "faction": "YORHA",
-    "bio": ""
+    "bio": "Pod 042 and Pod 153 are tactical support units that are the standard assigned Pods to YoRHa soldiers in Nier:Automata. They are mainly loaded with various weapons for long-ranged attacks. These Pods display correspondence from the command center and exchange operational intelligence between units.",
+    "perso": "Though the pods are purely mechanical in design and thus, do not show any emotions, they will react to the developing personalities of their assigned androids."
   },
   {
     "name": "Adam",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/94/Adam.png/revision/latest?cb=20170224223324",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Adam is a major character and the secondary antagonist of Branches A and B in NieR:Automata. He is the older brother of Eve.",
+    "perso": "He has a cool-headed temperament but can take merciless action for the sake of his objective. As mentioned before, Adam appears to be a calm, mysterious and an intellectual man. He has a deep interest in humanity and anything that is related to them. He is a man of curiosity who aims for one goal, learning more about humanity."
   },
   {
     "name": "Eve",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/6/64/Eve.png/revision/latest?cb=20170224190504",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Eve is a major character and the main antagonist of Branches A and B in NieR:Automata. He is the younger brother of Adam.",
+    "perso": "Eve is a simple minded man. He does not like to think deeply about something and he usually questions about things that he does not have to do. He also appears to be childish in a way, specifically with Adam. Unlike Adam, who is intellectual and calm, Eve couldn't care less about knowledge. Rather, he is interested in anything that's related to physical activity. As long as he is engaged in a physical activity, he is happy. In other words, he is the brute out of the two."
   },
   {
     "name": "Pascal",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/40/Ccdimage.jpg/revision/latest?cb=20160919231826",
     "faction": "Pascal's village",
-    "bio": ""
+    "bio": "Pascal is a vital character in NieR:Automata, serving as an important NPC and a temporarily playable character in Route C.",
+    "perso": "Although a Machine, Pascal is a pacifist that actively takes precautions to avoid fighting and searches for a path to peace with like-minded machine lifeforms. Highly intellectual and shows interest in topics like human philosophy, and the history of humankind and machine lifeforms."
   },
   {
     "name": "Jean-Paul",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/c/c4/Jean-Paul.png/revision/latest?cb=20180215225716",
     "faction": "Pascal's village",
-    "bio": ""
+    "bio": "Jean-Paul (also known as Sartre in some non-English releases) is a friendly unit in NieR:Automata.",
+    "perso": "Jean-Paul shres Pascal's interest in philosphy, though unlike him, Jean-Paul keeps his learnings to himself. Multiple machines try to get his favors with gifts, which he dismissed with disdain."
   },
   {
     "name": "Engels",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/1/1b/Engels.png/revision/latest?cb=20170430090743",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Engels is a unit in NieR:Automata encountered multiple times throughout the story. An Engels' arm is comprised of a Marx-type Goliath",
+    "perso": "After defeating him, Engels' upper body will be lying at the center of the map, where he will ponder the meaning of his existence."
   },
   {
     "name": "Marx",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/7/7e/Marx.png/revision/latest?cb=20170430083734",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Marx is a boss unit in NieR:Automata, and the first one faced in the game.",
+    "perso": "Being the arm of an Engels' unit, Marx has no personnality of his own."
   },
   {
     "name": "Kierkegaard",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/4c/Kier1.png/revision/latest?cb=20170504100149",
     "faction": "Factory Machines",
-    "bio": ""
+    "bio": "Kierkegaard is a boss unit and leader of the factory machines in routes C & D",
+    "perso": "In Complete opposition to his real-life equivalent, Kierkegaard is a mindless fanatic who organizes a cult around himslef. Him and his followers end up killing themsleves to 'become as gods'"
   },
   {
     "name": "Grün",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/43/Grun.png/revision/latest?cb=20170503235112",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Grün is a boss unit in NieR:Automata that is encountered in Chapter 07-02: The Aircraft Carrier upon reaching the Flooded City, under request from Anemone.",
+    "perso": "A machine superweapon purely dedicated to combat, Grün's interactions with the player are limited to fighting."
   },
   {
     "name": "Simone",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/5/5d/Simone.jpg/revision/latest?cb=20190204015735",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Simone (also known as Beauvoir in some non-English releases) is a main story boss unit in NieR:Automata. She is themed around an opera performer with attacks and actions synced to her musical performance.",
+    "perso": "Enamored with Jean-Paul, Simone was driven crazy by his lack of reaction to her efforts and cannibalizes androids and machines to try and attain true beauty."
   },
   {
     "name": "So-Shi",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/e/e4/So-Shi.png/revision/latest?cb=20180206113734",
     "faction": "Machines",
-    "bio": ""
+    "bio": "So-Shi is a is a Goliath-class boss unit in NieR:Automata which makes use of its surroundings to gain advantages in battle. Examples include climbing walls to remain out of reach from opponents melee attacks while it heals, or electrocuting pools of water to create deadly fields of electricity.",
+    "perso": "Though the player doesn't interact with So-Shi out of combat, him and his counterpart Boku-Shi parallel the Chinese philosophers Zhuang Zhou and Mo Tzu"
   },
   {
     "name": "Boku-Shi",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/f/f3/Boku-shi-0.png/revision/latest?cb=20170604142727",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Boku-Shi is a unit in NieR:Automata, and the ranged counterpart to So-Shi. It makes use of its surroundings to gain advantages in battle. Examples include climbing walls to remain out of reach from opponents melee attacks while it heals, or electrocuting pools of water to create deadly fields of electricity.",
+    "perso": "Though the player doesn't interact with Boku-Shi out of combat, him and his counterpart So-Shi parallel the Chinese philosophers Zhuang Zhou and Mo Tzu"
   },
   {
     "name": "Hegel",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b4/Hegel_1.png/revision/latest?cb=20170504104505",
     "faction": "Machines",
-    "bio": ""
+    "bio": "Hegel is a boss unit in NieR:Automata. He is the last boss of the desert zone and is encoutered by A2 at the begining of route D",
+    "perso": "A machine superweapon purely dedicated to combat, Hegel's interactions with the player are limited to fighting."
   },
   {
     "name": "Immanuel",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/6/67/Immanuel.png/revision/latest?cb=20191223162324",
     "faction": "Forest Kingdom",
-    "bio": ""
+    "bio": "Immanuel is a passive unit in NieR:Automata. Shortly after encountering this machine lifeform in the Forest Castle's Royal Chamber, it is swiftly destroyed by A2.",
+    "perso": "Though traped in a passive unit in the game, Immanuel created the forest kingdom centuries before the begining of the game. Being the kingdom's first and only ruler, Immanuel strived to be a just and virtuous leader, paralleling his real life couterpart's ideals."
   },
   {
     "name": "Emil",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/9b/Emil.png/revision/latest?cb=20180203073034",
     "faction": "Independent",
-    "bio": ""
+    "bio": "Emil is both a boss unit and an NPC in Nier:Automata. As an NPC, he is the keeper of his own item shop and also gives the player the unique quest: Emil's Memories",
+    "perso": "A child traped in a machine's body, Emil is childish and playfull, driving around the ruinded city with loud music blasting from his speakers. Though he also shows deeper emotuions such as sorrow and pain when discussing his past self and rediscovering his memories"
   },
   {
     "name": "Anemone",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b1/Anemone.png/revision/latest?cb=20170224143508",
     "faction": "Resistance",
-    "bio": ""
+    "bio": "Anemone is a leader of the Resistance Camp, the player's first base at the beginning of the game.",
+    "perso": "As the leader of the Resistance, Anemone has a steadfast and caring personnality. Anemone cares deeply for her friends, especially A2, whom she continued to support after she deserted YORHA."
   },
   {
     "name": "Devola",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/e/e4/NA_Devola.png/revision/latest?cb=20170225032142",
     "faction": "Resistance",
-    "bio": ""
+    "bio": "Devola, also known as Debol in the Japanese release, is a major character in NieR:Automata. She is the younger twin sister of Popola.",
+    "perso": "Though she is supposedly Popola's twin sister, Devola acts as the younger of the two. She has a brash and playful personality, often teasing the player and speaking exclusively with her sisters in their presence."
   },
   {
     "name": "Popola",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/d/d7/NA_Popola.png/revision/latest?cb=20170225031905",
     "faction": "Resistance",
-    "bio": ""
+    "bio": "Popola, also known as Popol in the Japanese release, is a major character in NieR:Automata. She is the older twin sister of Devola",
+    "perso": "Though she is supposedly Devola's twin sister, Popola acts as the older of the two. She has a serious and calm demeanor, often scolding her sister when she purposedly neglects the player."
   }
 ]
 }
