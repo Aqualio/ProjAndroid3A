@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ProjAndroid3A</string>
-    <string name="charaBio">%s</string>
+    <string name="charaBio">Biography:\n%s</string>
+    <string name="charaPerso">Personality:\n%s</string>
 </resources>

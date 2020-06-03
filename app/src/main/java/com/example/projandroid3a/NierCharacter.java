@@ -8,12 +8,14 @@ public class NierCharacter implements Parcelable {
     private String imgUrl;
     private String faction;
     private String bio;
+    private String perso;
 
     protected NierCharacter(Parcel in) {
         name = in.readString();
         imgUrl = in.readString();
         faction = in.readString();
         bio = in.readString();
+        perso = in.readString();
     }
 
     public static final Creator<NierCharacter> CREATOR = new Creator<NierCharacter>() {
@@ -44,6 +46,10 @@ public class NierCharacter implements Parcelable {
         return bio;
     }
 
+    public String getPerso(){
+        return perso;
+    }
+
     @Override
     public int describeContents() {
         return 0;
@@ -55,5 +61,6 @@ public class NierCharacter implements Parcelable {
         dest.writeString(imgUrl);
         dest.writeString(faction);
         dest.writeString(bio);
+        dest.writeString(perso);
     }
 }
