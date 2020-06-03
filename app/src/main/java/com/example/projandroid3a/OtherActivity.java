@@ -1,6 +1,8 @@
 package com.example.projandroid3a;
 
 import android.os.Bundle;
+import android.text.SpannableString;
+import android.text.style.RelativeSizeSpan;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -19,6 +21,7 @@ public class OtherActivity extends AppCompatActivity {
             NierCharacter chara = getIntent().getParcelableExtra("clicked_character");
             displayImg(chara);
             displayBio(chara);
+            displayPerso(chara);
         }
     }
 
@@ -28,7 +31,17 @@ public class OtherActivity extends AppCompatActivity {
 
     private void displayBio(NierCharacter character){
         String bio = getString(R.string.charaBio, character.getBio());
+        SpannableString mySS = new SpannableString(bio);
+        mySS.setSpan(new RelativeSizeSpan(2f), 0, 10, 0);
         TextView myTextView = (TextView)findViewById(R.id.bioView);
         myTextView.setText(bio);
+    }
+
+    private void displayPerso(NierCharacter character){
+        String perso = getString(R.string.charaPerso, character.getPerso());
+        SpannableString mySS = new SpannableString(perso);
+        mySS.setSpan(new RelativeSizeSpan(2f), 0, 12, 0);
+        TextView myTextView = (TextView)findViewById(R.id.persoView);
+        myTextView.setText(perso);
     }
 }
