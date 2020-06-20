@@ -1,4 +1,4 @@
-package com.example.projandroid3a;
+package com.example.projandroid3a.presentation.view;
 
 import android.annotation.SuppressLint;
 import android.view.LayoutInflater;
@@ -10,6 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.projandroid3a.R;
+import com.example.projandroid3a.presentation.model.NierCharacter;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
