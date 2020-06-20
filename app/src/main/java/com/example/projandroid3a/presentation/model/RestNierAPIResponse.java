@@ -1,4 +1,4 @@
-package com.example.projandroid3a;
+package com.example.projandroid3a.presentation.model;
 
 import java.util.List;
 

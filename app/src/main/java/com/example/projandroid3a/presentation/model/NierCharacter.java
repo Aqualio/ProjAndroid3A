@@ -1,4 +1,4 @@
-package com.example.projandroid3a;
+package com.example.projandroid3a.presentation.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

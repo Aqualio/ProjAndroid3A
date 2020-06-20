@@ -1,15 +1,16 @@
-package com.example.projandroid3a;
+package com.example.projandroid3a.presentation.view;
 
 import android.os.Bundle;
 import android.text.SpannableString;
 import android.text.style.RelativeSizeSpan;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.projandroid3a.R;
+import com.example.projandroid3a.presentation.model.NierCharacter;
 import com.squareup.picasso.Picasso;
 
 public class OtherActivity extends AppCompatActivity {
