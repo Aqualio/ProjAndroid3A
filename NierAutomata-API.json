@@ -34,7 +34,7 @@
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/8/85/YoRHa_Commander.png/revision/latest?cb=20190219195750",
     "faction": "YORHA",
     "bio": "Commander White is a character in NieR:Automata. As the commander of all YoRHa forces, she determines all large-scale strategies as well as directs, deploys and oversees all units from her station at the Bunker outpost in Earth's orbit.",
-    "perso": "The calm and composed commander of the YoRHa units and director of the orbital satellite known as the “Bunker”."
+    "perso": "The commander of all YoRHa units and director of the orbital satellite known as the “Bunker”. She always remains calm and composed, following orders and imposing a harsh discipline"
   },
   {
     "name": "Pod 042/153",
@@ -47,57 +47,57 @@
     "name": "Adam",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/9/94/Adam.png/revision/latest?cb=20170224223324",
     "faction": "Machines",
-    "bio": "Adam is a major character and the secondary antagonist of Branches A and B in NieR:Automata. He is the older brother of Eve.",
+    "bio": "Adam is a major character and the secondary antagonist of Branches A and B in NieR:Automata. He calls himself the older brother of Eve, though both were made out of the same initial body.",
     "perso": "He has a cool-headed temperament but can take merciless action for the sake of his objective. As mentioned before, Adam appears to be a calm, mysterious and an intellectual man. He has a deep interest in humanity and anything that is related to them. He is a man of curiosity who aims for one goal, learning more about humanity."
   },
   {
     "name": "Eve",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/6/64/Eve.png/revision/latest?cb=20170224190504",
     "faction": "Machines",
-    "bio": "Eve is a major character and the main antagonist of Branches A and B in NieR:Automata. He is the younger brother of Adam.",
+    "bio": "Eve is a major character and the main antagonist of Branches A and B in NieR:Automata. He calls himself the younger brother of Adam, though both were made out of the same initial body.",
     "perso": "Eve is a simple minded man. He does not like to think deeply about something and he usually questions about things that he does not have to do. He also appears to be childish in a way, specifically with Adam. Unlike Adam, who is intellectual and calm, Eve couldn't care less about knowledge. Rather, he is interested in anything that's related to physical activity. As long as he is engaged in a physical activity, he is happy. In other words, he is the brute out of the two."
   },
   {
     "name": "Pascal",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/40/Ccdimage.jpg/revision/latest?cb=20160919231826",
     "faction": "Pascal's village",
-    "bio": "Pascal is a vital character in NieR:Automata, serving as an important NPC and a temporarily playable character in Route C.",
+    "bio": "Pascal is a vital character in NieR:Automata, serving as an important NPC as leader of the machine village as well as being a temporarily playable character in Route C.",
     "perso": "Although a Machine, Pascal is a pacifist that actively takes precautions to avoid fighting and searches for a path to peace with like-minded machine lifeforms. Highly intellectual and shows interest in topics like human philosophy, and the history of humankind and machine lifeforms."
   },
   {
     "name": "Jean-Paul",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/c/c4/Jean-Paul.png/revision/latest?cb=20180215225716",
     "faction": "Pascal's village",
-    "bio": "Jean-Paul (also known as Sartre in some non-English releases) is a friendly unit in NieR:Automata.",
-    "perso": "Jean-Paul shres Pascal's interest in philosphy, though unlike him, Jean-Paul keeps his learnings to himself. Multiple machines try to get his favors with gifts, which he dismissed with disdain."
+    "bio": "Jean-Paul (also known as Sartre in some non-English releases) is a friendly unit in NieR:Automata. Initially a member of Pascal's machine village, he leaves said village for unknown reasons during route A/B",
+    "perso": "Jean-Paul shares Pascal's interest in philosphy, though unlike him, Jean-Paul keeps his learnings to himself. Multiple machines try to get his favors with gifts, which he dismissed with disdain."
   },
   {
     "name": "Engels",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/1/1b/Engels.png/revision/latest?cb=20170430090743",
     "faction": "Machines",
     "bio": "Engels is a unit in NieR:Automata encountered multiple times throughout the story. An Engels' arm is comprised of a Marx-type Goliath",
-    "perso": "After defeating him, Engels' upper body will be lying at the center of the map, where he will ponder the meaning of his existence."
+    "perso": "After defeating him during route A/B, Engels' upper body will be lying at the center of the map, where he will ponder the meaning of his existence when interacting with the player. His relationship with Marx units can be seen as a nod to his real-life counterpart"
   },
   {
     "name": "Marx",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/7/7e/Marx.png/revision/latest?cb=20170430083734",
     "faction": "Machines",
-    "bio": "Marx is a boss unit in NieR:Automata, and the first one faced in the game.",
-    "perso": "Being the arm of an Engels' unit, Marx has no personnality of his own."
+    "bio": "Marx is a boss unit in NieR:Automata, and the first one faced by the player in the game. Marx units form the arms of the bigger Engels units",
+    "perso": "Being the arm of an Engels' unit, Marx has no personnality of his own. Though his relationship with Engels units can be seen as a nod to his real-life counterpart"
   },
   {
     "name": "Kierkegaard",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/4c/Kier1.png/revision/latest?cb=20170504100149",
     "faction": "Factory Machines",
-    "bio": "Kierkegaard is a boss unit and leader of the factory machines in routes C & D",
+    "bio": "Kierkegaard is a boss unit in routes A & B, though the player never actually faces him. He was the initial leader of the factory machines, though he is already dead when the player first  meets him",
     "perso": "In Complete opposition to his real-life equivalent, Kierkegaard is a mindless fanatic who organizes a cult around himslef. Him and his followers end up killing themsleves to 'become as gods'"
   },
   {
     "name": "Grün",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/4/43/Grun.png/revision/latest?cb=20170503235112",
     "faction": "Machines",
-    "bio": "Grün is a boss unit in NieR:Automata that is encountered in Chapter 07-02: The Aircraft Carrier upon reaching the Flooded City, under request from Anemone.",
-    "perso": "A machine superweapon purely dedicated to combat, Grün's interactions with the player are limited to fighting."
+    "bio": "Grün is a boss unit in NieR:Automata that is encountered in Chapter 07-02: The Aircraft Carrier, upon reaching the Flooded City, under request from Anemone.",
+    "perso": "Being an ancient machine superweapon purely dedicated to ruling the seas, Grün's interactions with the player are limited to fighting and defeating him."
   },
   {
     "name": "Simone",
@@ -124,8 +124,8 @@
     "name": "Hegel",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b4/Hegel_1.png/revision/latest?cb=20170504104505",
     "faction": "Machines",
-    "bio": "Hegel is a boss unit in NieR:Automata. He is the last boss of the desert zone and is encoutered by A2 at the begining of route D",
-    "perso": "A machine superweapon purely dedicated to combat, Hegel's interactions with the player are limited to fighting."
+    "bio": "Hegel is a boss unit in NieR:Automata. He is the final boss of the ancient desert zone and is encoutered when paying as A2 at the begining of route D",
+    "perso": "Being an ancient machine superweapon purely dedicated to combat, Hegel's interactions with the player are limited to fighting and defeating him."
   },
   {
     "name": "Immanuel",
@@ -145,21 +145,21 @@
     "name": "Anemone",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/b/b1/Anemone.png/revision/latest?cb=20170224143508",
     "faction": "Resistance",
-    "bio": "Anemone is a leader of the Resistance Camp, the player's first base at the beginning of the game.",
+    "bio": "Anemone is a leader of the Resistance and the one in charge of the Resistance Camp, the player's first base at the beginning of the game.",
     "perso": "As the leader of the Resistance, Anemone has a steadfast and caring personnality. Anemone cares deeply for her friends, especially A2, whom she continued to support after she deserted YORHA."
   },
   {
     "name": "Devola",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/e/e4/NA_Devola.png/revision/latest?cb=20170225032142",
     "faction": "Resistance",
-    "bio": "Devola, also known as Debol in the Japanese release, is a major character in NieR:Automata. She is the younger twin sister of Popola.",
+    "bio": "Devola, also known as Debol in the Japanese release, is a major character in NieR:Automata's routes C & D. She is the younger twin sister of Popola.",
     "perso": "Though she is supposedly Popola's twin sister, Devola acts as the younger of the two. She has a brash and playful personality, often teasing the player and speaking exclusively with her sisters in their presence."
   },
   {
     "name": "Popola",
     "imgUrl": "https://vignette.wikia.nocookie.net/nier/images/d/d7/NA_Popola.png/revision/latest?cb=20170225031905",
     "faction": "Resistance",
-    "bio": "Popola, also known as Popol in the Japanese release, is a major character in NieR:Automata. She is the older twin sister of Devola",
+    "bio": "Popola, also known as Popol in the Japanese release, is a major character in NieR:Automata's routes C & D. She is the older twin sister of Devola.",
     "perso": "Though she is supposedly Devola's twin sister, Popola acts as the older of the two. She has a serious and calm demeanor, often scolding her sister when she purposedly neglects the player."
   }
 ]
