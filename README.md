@@ -41,7 +41,7 @@ Lancer l'application sur le téléphone/émulateur connecté à Android Studio
 
 ## Second écran:
 * Lorsque l'on clique sur un des personnages de la liste, on peut voir une biographie et une description de sa personnalité.
-![Mobile_List](https://user-images.githubusercontent.com/44286703/85206195-4b99fc00-b35b-11ea-85bc-7408c5a8851e.PNG)
+![Mobile_Details](https://user-images.githubusercontent.com/44286703/85206395-d9c2b200-b35c-11ea-8239-723fbf68dbf9.PNG)
 
 # Sources:
 * Les images et une partie des biographies proviennent du [wiki Nier](https://nier.fandom.com/wiki/NIER_Wiki)
